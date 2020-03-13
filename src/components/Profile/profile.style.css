@@ -28,14 +28,14 @@
 
 .info li {
 	list-style-type: none;
-	width: 80%;
+	width: 85%;
 	display: flex;
 	align-items: center;
 	height: 40px;
 	justify-content: space-between;
 	margin: 0 auto;
 	border-bottom: 1px solid #ddd;
-	padding: 0px 10px;
+	padding: 0px 5px;
 }
 
 .info p,
@@ -84,4 +84,8 @@
 
 svg {
 	margin-right: 10px;
+}
+.addbtn{
+	background-color: #cfdefa;
+	border-radius: 5px;
 }

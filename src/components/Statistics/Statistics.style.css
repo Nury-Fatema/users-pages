@@ -50,7 +50,7 @@
 
 .selected-pepoles {
 	min-height: 150px;
-	max-height: 280px;
+	max-height: 480px;
 	overflow-y: scroll;
 	overflow-x: hidden;
 }
@@ -79,6 +79,11 @@
 	align-items: center;
 	justify-content: center;
 	margin-top: 30px;
+}
+h1{
+	font-size: 15px;
+	text-align: center;
+	margin-top: 250px;
 }
 
 .total {
